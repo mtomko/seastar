@@ -9,10 +9,14 @@ Assembly information
 
 Each cirle in the graph represents an assembled contig; the area of each
 circle is proportional to the length of the contig sequence. The color 
-indicats GC richness. Each black arrow represents the connection between
+indicates GC richness. Each black arrow represents the connection between
 two mate pairs; the thickness of the black arrows represents the "bitscore".
 Red arrows are "added dependencies to produce a fully ordered layout for 
 "SCAFF".
+
+## Problems on the cluster
+    /home/mtomko/share/data/fastq/asymptomatic/SEAStAR.sh: line 24: 26425 Killed                  ${VELPATH}/velvetg_de asymptomatic_asm/ -scaffolding no -read_trkg no -ins_length auto -ins_length_sd auto -exp_cov 50 -cov_cutoff 5 -min_contig_lgth 50 > asymptomatic_asm.velvetg_de.log 2>&1
+
 
 ## SEAStAR documentation
 
