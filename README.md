@@ -12,7 +12,7 @@ circle is proportional to the length of the contig sequence. The color
 indicats GC richness. Each black arrow represents the connection between
 two mate pairs; the thickness of the black arrows represents the "bitscore".
 Red arrows are "added dependencies to produce a fully ordered layout for 
-SCAFF".
+"SCAFF".
 
 ## SEAStAR documentation
 
